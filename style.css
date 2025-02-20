@@ -1,0 +1,36 @@
+body {
+    margin-right: 200px;
+    margin-left: 200px;
+    height: auto;
+    background-color: #FFFFFF;
+    opacity: 1;
+}
+.yu{
+    color:grey;
+    
+}
+h2{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+
+}
+img{
+    height: 200px;
+    width: 300px;
+}
+.uv{
+    height: 60px;
+    width: 1000px;
+    background-color:rgba(211, 211, 211, 0.234);
+    color: grey;
+    margin-left: 30px;
+    border:1px solid rgba(0, 0, 0, 0.562);
+   
+}
+pre{
+    color:#007EB4;
+}
+tr th{
+    background-color:rgba(128, 128, 128, 0.43);
+}
+
